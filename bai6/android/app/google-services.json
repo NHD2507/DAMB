@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "656661483319",
+    "firebase_url": "https://buoi6-1576d-default-rtdb.firebaseio.com",
+    "project_id": "buoi6-1576d",
+    "storage_bucket": "buoi6-1576d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656661483319:android:163ffadfdbbc2fd056d4b2",
+        "android_client_info": {
+          "package_name": "com.example.bai6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWm34uSfRn9SjfMkgS2sEuEyFIwg8WjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
